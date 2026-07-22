@@ -1,0 +1,11 @@
+[project]
+name = "converter-service"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "moviepy>=2.2.1",
+    "pika>=1.4.1",
+    "pymongo>=4.17.0",
+]
